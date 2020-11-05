@@ -1,0 +1,36 @@
+body {
+    font-family: 'Open Sans', 'sans-serif';
+}
+
+h1 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #80BC00;
+}
+
+h2 {
+    font-size: 28px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+p {
+    font-size: 16px;
+    color: #ffffff;
+}
+
+.linea {
+    height: 1px;
+    width: 70px;
+    background-color: #80BC00;
+}
+
+.color {
+    color: #80BC00;
+}
